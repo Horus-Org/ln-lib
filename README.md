@@ -1,4 +1,4 @@
-# Lightning-Network-Lib
+# Lightning-Network Lib
 
 Library for Lightning Network
 
@@ -13,3 +13,10 @@ The Lightning Network is a "layer 2" payment protocol layered on top of Bitcoin.
 - Javascript
 - Typescript
 
+
+## Roadmap
+
+- [ ] LDK, CLN and LND
+- [ ] Payments API
+- [ ] SDK
+- [ ] Alpha Software
