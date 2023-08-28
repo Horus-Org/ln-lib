@@ -1,4 +1,4 @@
-# Lightning Network Lib
+# Lightning Network Library
 
 Library for Lightning Network
 
