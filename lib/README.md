@@ -7,3 +7,4 @@ Theses libraries will be used for help developers via SDK
 - Light Client
 - Channels
 - UTXO
+- Taproot Channel
