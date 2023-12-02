@@ -8,3 +8,5 @@ Theses libraries will be used for help developers via SDK
 - Channels
 - UTXO
 - Taproot Channel
+- APIs
+- RPCs
