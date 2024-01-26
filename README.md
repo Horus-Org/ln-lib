@@ -24,4 +24,5 @@ The Lightning Network is a "layer 2" payment protocol layered on top of Bitcoin.
 - [ ] Initial SDK
 - [ ] Initial design
 - [ ] Alpha Software
+- [ ] APIs
 - [ ] Hosted Channels 
