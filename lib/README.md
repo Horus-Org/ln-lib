@@ -19,3 +19,4 @@ Soon
 
 - [ ] Initial SDK
 - [ ] Sync with other libraries
+- [ ] Alpha software
