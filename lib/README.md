@@ -18,5 +18,5 @@ Soon
 ## Roadmap
 
 - [ ] Initial SDK
-- [ ] Sync with other libraries               - [ ] Beta software 
+- [ ] Sync with other libraries                   - [ ] Beta software 
 - [ ] Alpha software 
