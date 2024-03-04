@@ -1,1 +1,4 @@
+[package]
+bitcoin-lib-rust = "1.0.0"
 
+[core]
