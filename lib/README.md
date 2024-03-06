@@ -10,6 +10,8 @@ Theses libraries will be used for help developers via SDK
 - Taproot Channel
 - APIs
 - RPCs
+- RGB
+- Statechains
   
 ## Documentation 
 
