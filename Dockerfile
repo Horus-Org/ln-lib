@@ -1,1 +1,3 @@
 # Lighnting
+
+$ lncli
