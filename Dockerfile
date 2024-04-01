@@ -1,3 +1,5 @@
-# Lighnting
+# LND
 
 $ lncli
+
+# CLN
