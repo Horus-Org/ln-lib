@@ -3,3 +3,4 @@
 $ lncli
 
 # CLN
+$ cli
