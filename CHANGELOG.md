@@ -1,3 +1,3 @@
-## Lightning Network Library Releases and Development
+## Lightning Network Library Releases and Development ⚡
 
 TBD
