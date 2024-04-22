@@ -1,6 +1,6 @@
 # Lightning Network Library ⚡
 
-Library for Lightning Network
+> Library for Lightning Network
 
 **Contributions are welcome**
 
