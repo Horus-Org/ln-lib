@@ -1,8 +1,6 @@
-
-
-
 # LND
 
+Run
 $ lncli
 
 # CLN
